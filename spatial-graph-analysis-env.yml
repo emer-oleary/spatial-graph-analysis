@@ -1,0 +1,17 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2024.6.2
+  - cudatoolkit=11.4.2
+  - libffi=3.4.4
+  - openssl=3.0.14
+  - pip=24.0
+  - python=3.8.19
+  - setuptools=69.5.1
+  - sqlite=3.45.3
+  - vc=14.2
+  - vs2015_runtime=14.29.30133
+  - wheel=0.43.0
+prefix: C:\Users\emero\miniconda3\envs\myenv
